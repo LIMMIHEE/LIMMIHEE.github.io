@@ -6,6 +6,20 @@
   <div>name</div>
 ```
 
+* 목록1
+* 목록1
+ 
+- 목록1
+- 목록2
+
+| 학번 | 이름 |
+| ---- | --- |
+
+[내 홈페이질 가지](https://github.com/)
+
+![햄서터](다운로드.jpg)
+
+
 You can use the [editor on GitHub](https://github.com/LIMMIHEE/LIMMIHEE.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
