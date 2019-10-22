@@ -1,4 +1,10 @@
 ## Welcome to GitHub Pages
+```java
+ System.out.println("hi");
+```
+```html
+  <div>name</div>
+```
 
 You can use the [editor on GitHub](https://github.com/LIMMIHEE/LIMMIHEE.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
