@@ -1,10 +1,10 @@
 # Site settings
 title: Hanuman
-description: Hanuman is a minimal yet powerful Jekyll theme for your blogs and websites.
+description: 심심할때 올리는 깃허브 홈페이지
 cover: assets/images/radhakrishna.jpg
 logo: assets/images/logo.png
 favicon: assets/images/favicon.png
-baseurl: "/hanuman/" # the subpath of your site, e.g. /blog/ or / for root
+baseurl: "/LIMMIHEE/" # the subpath of your site, e.g. /blog/ or / for root
 url: "https://samanyougarg.com" # the base hostname & protocol for your site
 
 pagination:
@@ -47,11 +47,11 @@ plugins:
 # Settings for rake task
 safe: False
 lsi: False
-username: samanyougarg #github username
+username: LIMMIHEE #github username
 repo: hanuman #github repository
 branch: master #branch
-relative_source: ../hanuman/ #source directory
-destination: ../hanuman-pages/ #destination directory
+relative_source: ../LIMMIHEE/ #source directory
+destination: ../LIMMIHEE-pages/ #destination directory
 production_url:  https://samanyougarg.com/
 source_url:  https://github.com/samanyougarg/hanuman #source repository url
 
