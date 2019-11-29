@@ -1,4 +1,4 @@
-# HANUMAN Jekyll Theme
+# LIM MI HEE
 
 [![Build Status](https://travis-ci.org/samanyougarg/hanuman.svg?branch=master)](https://travis-ci.org/samanyougarg/hanuman)
 
