@@ -4,7 +4,11 @@
 초보 개발자인 임미희입니다. 여러가지 관심가는 건 자주 건드려봐요😌
 
 
-## Live Demo
+## 깃허브
+[*개인 홈페이지 *](LIMMIHEE.github.io)
+[**프로필 **](https://github.com/LIMMIHEE)
+
+
 ## [FaceBook](https://www.facebook.com/profile.php?id=100018210523134&ref=bookmarks)
 SNS자체를 거의 하지 않는 편입니다 🙌
 
