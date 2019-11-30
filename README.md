@@ -7,7 +7,7 @@
 ## 깃허브
 *👇개인 홈페이지로 가기* 
 
-[🐑](LIMMIHEE.github.io)
+[🐑](https://limmihee.github.io/)
 
 **👇 프로필 보기**  
 
