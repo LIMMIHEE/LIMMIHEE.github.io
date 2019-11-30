@@ -5,9 +5,13 @@
 
 
 ## 깃허브
-*개인 홈페이지 *[🐑](LIMMIHEE.github.io)
+*개인 홈페이지 * 
 
-**프로필 **[💾](https://github.com/LIMMIHEE)
+[🐑](LIMMIHEE.github.io)
+
+**프로필 **  
+
+[💾](https://github.com/LIMMIHEE)
 
 
 ## [FaceBook](https://www.facebook.com/profile.php?id=100018210523134&ref=bookmarks)
