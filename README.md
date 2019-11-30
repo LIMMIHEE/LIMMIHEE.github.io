@@ -5,11 +5,11 @@
 
 
 ## 깃허브
-*개인 홈페이지 * 
+*👇개인 홈페이지로 가기* 
 
 [🐑](LIMMIHEE.github.io)
 
-**프로필 **  
+**👇 프로필 보기**  
 
 [💾](https://github.com/LIMMIHEE)
 
