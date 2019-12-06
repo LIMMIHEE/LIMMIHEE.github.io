@@ -16,7 +16,9 @@
 ## 현재 진행 프로젝트
 - C++ 일정관리 프로그램 (팀)
 - Android Studio 서울 근처 스포츠거리 정보 알려주는 앱 (개인)
-- JAVA 리듬게임 (+ 뽑기 ) (개인)
+
+##  프로젝트
+JAVA 리듬게임 (+ 뽑기 ) (개인)
 
 
 ## [FaceBook](https://www.facebook.com/profile.php?id=100018210523134&ref=bookmarks)
