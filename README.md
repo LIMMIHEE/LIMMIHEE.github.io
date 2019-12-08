@@ -29,7 +29,6 @@ SNS자체를 거의 하지 않는 편입니다 🙌
 - C
 - C++
 - Python
-- Social Sharing
 - Android Studio(JAVA, Kotlin 정말 조금)
 - HTML
 - JavaScript 
