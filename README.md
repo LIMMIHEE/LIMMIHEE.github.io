@@ -18,6 +18,7 @@
 
 ##  프로젝트
 JAVA 리듬게임 (+ 뽑기 ) (개인)
+
 C++ 일정관리 프로그램 (팀)
 
 ## [FaceBook](https://www.facebook.com/profile.php?id=100018210523134&ref=bookmarks)
