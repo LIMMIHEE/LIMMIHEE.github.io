@@ -1,68 +1,87 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
 # Site settings
-title: Hanuman
-description: 심심할때 올리는 깃허브 홈페이지
-cover: assets/images/radhakrishna.jpg
-logo: assets/images/logo.png
-favicon: assets/images/favicon.png
-baseurl: "/LIMMIHEE/" # the subpath of your site, e.g. /blog/ or / for root
-url: "https://samanyougarg.com" # the base hostname & protocol for your site
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
 
-pagination:
-
-  # Site-wide kill switch, disabled here it doesn't run at all 
-  enabled: true
-
-  # Set to 'true' to enable pagination debugging. This can be enabled in the site config or only for individual pagination pages
-  debug: false
-
-  per_page: 5
-
-# Social
-facebook: facebook
-twitter: twitter
-github:  github
-
-#Additional Pages
-about: about
-contact: contact
-privacy-policy: privacy-policy
-
-
-permalink: /:title
-
-
-# Google Analytics
-analytics_id: ""
+remote_theme : mmistakes/jekyll-theme-basically-basic
+lang: en-US
+title: My Awesome Site
+email:
+description:
+baseurl: ""
+url: "https://LIMMIHEE.github.io"
+author:
+  name:
+  twitter:
+  picture:
+twitter_username:
+github_username:
+logo: # path of site logo, e.g. "/assets/images/logo.png"
+search: # true, false (default)
+search_full_content: false # true, false (default)
+search_provider: # lunr (default), algolia
+algolia:
+  application_id: # YOUR_APPLICATION_ID
+  index_name: # YOUR_INDEX_NAME
+  search_only_api_key: # YOUR_SEARCH_ONLY_API_KEY
+  powered_by: # true (default), false
 
 # Build settings
 markdown: kramdown
+theme: jekyll-theme-basically-basic
+plugins: # previsously gems
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+feed:
+  path: atom.xml
 
-kramdown:
-  parse_block_html: true
+# Pagination - https://jekyllrb.com/docs/pagination/
+paginate: 10
+paginate_path: /page:num/
 
-plugins:
-  - jekyll-paginate-v2
-
-
-# Settings for rake task
-safe: False
-lsi: False
-username: LIMMIHEE #github username
-repo: hanuman #github repository
-branch: master #branch
-relative_source: ../LIMMIHEE/ #source directory
-destination: ../LIMMIHEE-pages/ #destination directory
-production_url:  https://samanyougarg.com/
-source_url:  https://github.com/samanyougarg/hanuman #source repository url
-
+# Exclude from processing.
 exclude:
-  - README.md
-  - Rakefile
+  - .asset-cache
+  - .bundle
+  - .codeclimate.yml
+  - .editorconfig
+  - .gitattributes
+  - .jekyll-assets-cache
+  - .sass-cache
+  - .scss-lint.yml
+  - CHANGELOG
   - Gemfile
   - Gemfile.lock
-  - changelog.md
-  - "*.Rmd"
-  - vendor
-  - .travis.yml
+  - LICENSE
+  - node_modules
+  - Rakefile
+  - README
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - /docs # ignore Basically Basic sample site
+  - /example # ignore Basically Basic dev site
 
-theme: jekyll-theme-minimal
+# Front Matter Defaults
+defaults:
+  # _posts
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: post
+      read_time: true
