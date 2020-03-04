@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-remote_theme : mmistakes/jekyll-theme-basically-basic
+remote_theme : mmistakes/minimal-mistakes
 lang: en-US
 title: My Awesome Site
 email:
